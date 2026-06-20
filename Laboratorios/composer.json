@@ -1,0 +1,13 @@
+{
+    "name": "sistema/labs",
+    "description": "Sistema de Gestion de Laboratorios (Beta)",
+    "type": "project",
+    "minimum-stability": "beta",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "App\\Laboratorios\\": "app/"
+        }
+    },
+    "require": {}
+}
